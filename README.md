@@ -28,9 +28,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/devanathan_ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/devanathan_ng" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/devanathan-n-g-83442115b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devanathan-n-g-83442115b/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/devanathanng17021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/devanathanng17021" height="30" width="40" /></a>
+<a href="https://dev.to/devanathan_ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/devanathan_ng" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devanathan-n-g-83442115b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devanathan-n-g-83442115b/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/devanathanng17021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/devanathanng17021" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
