@@ -1,17 +1,26 @@
 <h1 align="center">Hey 👋, I'm Devanathan N G</h1>
-<p A passionate software developer in the Bay Area, with a Master's in Computer Science from UC Santa Cruz. I am passionate about developing high-quality software that solves real user needs. I was the Winner of Smart India Hackathon - Software Edition where I Built CleanCare - a Washroom Management Application and runner up of Lord of the Codes Corporate Hackathon for developing a frictionless shopping experience for customers at McDonalds India. I have research expertise in Deep Learning and Computer Vision and worked on Automated Speaker Recognition using Recurrence Plots and Multimodal CNNs. I am skilled in JavaScript, Python, Java, Haskell and C++ and proficient with technologies like Node.js, PostgreSQL, RabbitMQ, AWS, OpenTelemetry, TensorFlow, Keras, and OpenCV.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngdeva99&label=Profile%20views&color=0e75b6&style=flat" alt="ngdeva99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngdeva99" alt="ngdeva99" /></a> </p>
 
+* A passionate software developer in the Bay Area, with a Master's in Computer Science from UC Santa Cruz.
+
+* I am passionate about developing high-quality software that solves real user needs. 
+
+* I was the Winner of Smart India Hackathon - Software Edition where I Built CleanCare - a Washroom Management Application and runner up of Lord of the Codes Corporate Hackathon for developing a frictionless shopping experience for customers at McDonalds India. 
+
+* I have research expertise in Deep Learning and Computer Vision and worked on Automated Speaker Recognition using Recurrence Plots and Multimodal CNNs. 
+
+* I am skilled in JavaScript, Python, Java, Haskell and C++ and proficient with technologies like Node.js, PostgreSQL, RabbitMQ, AWS, OpenTelemetry, TensorFlow, Keras, and OpenCV.
+
 - 🔭 I’m currently working on **Conversational Agent for Personalized Travel Planning**
 
-- 🌱 I’m currently learning **Go, FrontEnd Development, Working with LLMs.**
+- 🌱 I’m currently learning **Rust, Microservices with Go, Design Patterns, FrontEnd Development, Working with LLMs.**
 
 - 👨‍💻 All of my projects are available at [ngdeva99.github.io](ngdeva99.github.io)
 
-- 💬 Ask me about **Backend Development, System Design, Hackathons, Product Development.**
+- 💬 Ask me about **Backend Development, System Design, Hackathons, Deep Learning with Comnputer Vision & Product Development.**
 
 - 📫 How to reach me **https://ngdeva99.github.io/#contact**
 
