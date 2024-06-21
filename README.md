@@ -24,8 +24,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Jlv7Gs4fqO_nY_k_p8Aet72WdCfWgZuT/view?usp=sharing](https://drive.google.com/file/d/1Jlv7Gs4fqO_nY_k_p8Aet72WdCfWgZuT/view?usp=sharing)
 
-- ⚡ Fun fact **I play professional Sports and learning Music.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/devanathan_ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/devanathan_ng" height="30" width="40" /></a>
