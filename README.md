@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Rust, Microservices with Go, Design Patterns, FrontEnd Development, Working with LLMs.**
 
-- 👨‍💻 All of my projects are available at [ngdeva99.github.io](ngdeva99.github.io)
+- 👨‍💻 All of my projects are available at [https://ngdeva99.github.io](https://ngdeva99.github.io)
 
 - 💬 Ask me about **Backend Development, System Design, Hackathons, Deep Learning with Comnputer Vision & Product Development.**
 
