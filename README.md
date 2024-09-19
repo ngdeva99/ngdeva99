@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Conversational Agent for Personalized Travel Planning**
 
-- 🌱 I’m currently learning **Rust, Microservices with Go, Design Patterns, FrontEnd Development, Working with LLMs.**
+- 🌱 I’m currently learning **Rust, Microservices with Go, Design Patterns, FrontEnd Development, Mobile Development with Flutter and Working with LLMs.**
 
 - 👨‍💻 All of my projects are available at [https://ngdeva99.github.io](https://ngdeva99.github.io)
 
