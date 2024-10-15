@@ -12,7 +12,7 @@
 
 * I am skilled in JavaScript, Python, Java, Haskell and C++ and proficient with technologies like Node.js, PostgreSQL, RabbitMQ, AWS, OpenTelemetry, TensorFlow, Keras, and OpenCV.
 
-- 🔭 I’m currently working on **Conversational Agent for Personalized Travel Planning**
+- 🔭 I’m currently working on **Conversational Agent for Personalized Travel Planning and The University AI platform connected to all your data.**
 
 - 🌱 I’m currently learning **Rust, Microservices with Go, Design Patterns, FrontEnd Development, Mobile Development with Flutter and Working with LLMs.**
 
